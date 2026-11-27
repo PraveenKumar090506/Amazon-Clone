@@ -86,20 +86,6 @@ Because the project uses **ES6 modules and `fetch`**, it needs to be served from
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of each page here.
-
-| Home | Checkout |
-|---|---|
-| ![Home](images/screenshots/home.png) | ![Checkout](images/screenshots/checkout.png) |
-
-| Orders | Tracking |
-|---|---|
-| ![Orders](images/screenshots/orders.png) | ![Tracking](images/screenshots/tracking.png) |
-
----
-
 ## 🔮 Future Improvements
 
 - Product search and category filters
